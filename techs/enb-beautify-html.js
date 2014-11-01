@@ -1,15 +1,15 @@
 /**
- * enb-prettify-html
+ * enb-beautify-html
  * =================
  *
- * Форматирует однострочный *html*-файл в удобочитаемый вид с помощью `js-beautify`
+ * Форматирует *html*-файл в удобочитаемый вид с помощью `js-beautify`
  *
  */
 var vfs          = require('enb/lib/fs/async-fs'),
     beautifyHtml = require('js-beautify').html;
 
 module.exports = require('enb/lib/build-flow').create()
-    .name('enb-prettify-html')
+    .name('enb-beautify-html')
     .target('target', '?.beauty.html')
 
     .useSourceFilename('htmlFile', '?.html')

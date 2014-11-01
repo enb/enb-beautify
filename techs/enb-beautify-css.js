@@ -1,15 +1,15 @@
 /**
- * enb-prettify-css
+ * enb-beautify-css
  * =================
  *
- * Форматирует однострочный *css*-файл в удобочитаемый вид с помощью `js-beautify`
+ * Форматирует *css*-файл в удобочитаемый вид с помощью пакета `js-beautify`
  *
  */
 var vfs         = require('enb/lib/fs/async-fs'),
     beautifyCss = require('js-beautify').css;
 
 module.exports = require('enb/lib/build-flow').create()
-    .name('enb-prettify-css')
+    .name('enb-beautify-css')
     .target('target', '?.beauty.css')
 
     .useSourceFilename('cssFile', '?.css')

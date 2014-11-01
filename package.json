@@ -1,28 +1,27 @@
 {
-  "name": "enb-prettify",
-  "version": "0.0.1",
-  "description": "Make html/css to pretty view",
-  "main": "techs/enb-prettify.js",
+  "name": "enb-beautify",
+  "version": "0.0.2",
+  "description": "Make html/css pretty formatted",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexbaumgertner/enb-prettify.git"
+    "url": "https://github.com/alexbaumgertner/enb-beautify.git"
   },
   "keywords": [
     "html",
     "css",
-    "pretty",
-    "view",
-    "enb"
+    "pretty view",
+    "enb",
+    "js-beautify"
   ],
   "author": "alexbaumgertner@yandex.ru",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alexbaumgertner/enb-prettify/issues"
+    "url": "https://github.com/alexbaumgertner/enb-beautify/issues"
   },
-  "homepage": "https://github.com/alexbaumgertner/enb-prettify",
+  "homepage": "https://github.com/alexbaumgertner/enb-beautify",
   "engines": {
     "node": ">= 0.10.0"
   },
