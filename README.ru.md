@@ -1,7 +1,7 @@
 enb-beautify
 ============
 
-[Enb](http://github.com/enb-make/enb) технологии для визуального форматирования HTML and CSS.
+[Enb](http://github.com/enb/enb) технологии для визуального форматирования HTML and CSS.
 
 ### Как включить
 

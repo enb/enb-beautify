@@ -1,7 +1,7 @@
 enb-beautify
 ============
 
-[Enb](http://github.com/enb-make/enb) techs for pretty format HTML and CSS.
+[Enb](http://github.com/enb/enb) techs for pretty format HTML and CSS.
 
 ### How to enable
 

@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexbaumgertner/enb-beautify.git"
+    "url": "https://github.com/enb/enb-beautify.git"
   },
   "keywords": [
     "html",
@@ -19,9 +19,9 @@
   "author": "alexbaumgertner@yandex.ru",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alexbaumgertner/enb-beautify/issues"
+    "url": "https://github.com/enb/enb-beautify/issues"
   },
-  "homepage": "https://github.com/alexbaumgertner/enb-beautify",
+  "homepage": "https://github.com/enb/enb-beautify",
   "engines": {
     "node": ">= 0.10.0"
   },
